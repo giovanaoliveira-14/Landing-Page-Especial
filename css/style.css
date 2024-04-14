@@ -532,6 +532,9 @@ footer .footer-copyrigth span {
 
 /* Mobile */
 @media screen and (max-width: 991px) {
+    header .header-nav .header-nav-icon .header-nav-icon-popup{
+        display: none;
+    }
     main .main-container .main-container-apresentation .main-container-apresentation-content{
         flex-direction: column;
     }
